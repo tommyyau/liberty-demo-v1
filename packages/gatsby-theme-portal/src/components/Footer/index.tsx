@@ -57,7 +57,7 @@ const Footer: FunctionComponent = () => {
           alt="Unilever Logo"
           width="36"
         />
-        <p>Copyright &copy; {new Date().getFullYear()} Unilever.</p>
+        <p>COPYLEFT &copy; {new Date().getFullYear()} Unilever.</p>
       </div>
     </footer>
   );
